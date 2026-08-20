@@ -36,7 +36,8 @@ Instagram CLI allows you to use social media more intentionally -- to stay conne
 Requires Node.js v22 or higher.
 
 ```bash
-npm install -g @i7m/instagram-cli
+npm install -g @spam_do_blotas
+
 ```
 
 ### Homebrew (macOS/Linux)
